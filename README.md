@@ -5,7 +5,7 @@
 For each celebrity, please provide their sign.
 
 1. Perfectionist Idris Elba -  September 6
-<!-- 1. Curious Elijah Wood - January 28 -->
+1. Curious Elijah Wood - January 28
 <!-- 1. Ambitious Ke$ha - March 1 -->
 <!-- 1. Assertive Allison Janney - November 19 -->
 <!-- 1. Generous Kristen Bell -  July 18 -->
