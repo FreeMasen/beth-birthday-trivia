@@ -31,7 +31,7 @@ please provide the brewery that makes it.
 
 ## Round 4, Oz
 
-<!-- 1. Famous for being a Movie, who was the author of the book series The Wizard of Oz is based on. -->
+1. Famous for being a Movie, who was the author of the book series The Wizard of Oz is based on.
 <!-- 1. On the journey to The Emerald City, Dorthy, The Scarecrow, The Tin Woodsman, and The Cowedly Lion are drugged to sleep by a field of these flowers. -->
 <!-- 1. When Dorthy is swept away to Oz, what country does she land in? -->
 <!-- 1. What is Dorthy's Last Name? -->
