@@ -19,7 +19,7 @@ please provide the brewery that makes it.
 1. Cumulonimbus
 1. Guavatron
 1. North Star Pils
-<!-- 1. It was all a dream -->
+1. It was all a dream
 
 ## Round 3, The Tarot
 
