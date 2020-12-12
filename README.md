@@ -35,4 +35,4 @@ please provide the brewery that makes it.
 1. On the journey to The Emerald City, Dorthy, The Scarecrow, The Tin Woodsman, and The Cowedly Lion are drugged to sleep by a field of these flowers.
 1. When Dorthy is swept away to Oz, what country does she land in?
 1. What is Dorthy's Last Name?
-<!-- 2. Raised as a boy named Tip by the witch Mombi, who is the one true ruler of the land of Oz -->
+2. Raised as a boy named Tip by the witch Mombi, who is the one true ruler of the land of Oz
