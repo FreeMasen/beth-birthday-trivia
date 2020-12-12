@@ -16,7 +16,7 @@ For each beer name produced in North East Minneapolis,
 please provide the brewery that makes it.
 
 1. Pistachio Cream Ale
-<!-- 1. Cumulonimbus -->
+1. Cumulonimbus
 <!-- 1. Guavatron -->
 <!-- 1. North Star Pils -->
 <!-- 1. It was all a dream -->
