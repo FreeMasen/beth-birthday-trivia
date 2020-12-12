@@ -27,7 +27,7 @@ please provide the brewery that makes it.
 1. The Tarot is said to tell the story of a journey where one of the face cards is encountering each of the other face cards, which card is the protagonist?
 1. Probably the most misunderstood card in the deck, this card means transition or change?
 1. The Tarot is divided into 2 sections labeled Major and Minor, what term is used for each section?
-<!-- 1. The "suits" in the tarot aren't your regular clubs/hearts/spades/diamonds but instead consist of what 4 items? -->
+1. The "suits" in the tarot aren't your regular clubs/hearts/spades/diamonds but instead consist of what 4 items?
 
 ## Round 4, Oz
 
