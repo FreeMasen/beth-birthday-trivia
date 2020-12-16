@@ -2,7 +2,7 @@
 
 1. Virgo
 2. Aquarius
-3. Aries
+3. Pisces
 4. Scorpio
 5. Cancer
 
